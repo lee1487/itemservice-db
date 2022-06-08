@@ -1,4 +1,4 @@
-package hello.itemservice.domain;
+ package hello.itemservice.domain;
 
 import hello.itemservice.repository.ItemRepository;
 import hello.itemservice.repository.ItemSearchCond;
