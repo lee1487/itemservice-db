@@ -47,8 +47,6 @@ class ItemRepositoryTest {
 //        transactionManager.rollback(status);
     }
 
-    @Commit
-    @Transactional
     @Test
     void save() {
         //given
